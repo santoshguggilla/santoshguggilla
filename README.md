@@ -30,7 +30,6 @@ I have extensive experience in developing scalable web applications using a vari
 
 - **DevOps:**
   - Docker
-  - Kubernetes
   - Jenkins
   - AWS
   - CI/CD
@@ -38,10 +37,10 @@ I have extensive experience in developing scalable web applications using a vari
 - **Tools:**
   - Git
   - Maven
-  - Gradle
   - JIRA
   - VS Code
   - IntelliJ IDEA
+  - Postman
 
 ## Projects
 
