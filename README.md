@@ -52,13 +52,13 @@ An Instagram-like application built using Angular and Spring Boot. This project 
 
 ### E-Commerce Platform
 
-A full-featured e-commerce platform developed with React, Node.js, and MongoDB. It includes functionalities like user registration, product catalog, shopping cart, and order processing.
+A full-featured e-commerce platform developed with Thymeleaf, JavaScript, HTML, CSS, JQuery and Spring Boot. It includes functionalities like user registration, product catalog, shopping cart, and order processing.
 
 [GitHub Repository](https://github.com/santoshguggilla/MultiKart-Project.git)
 
 ### Task Management System
 
-A task management system built with Angular and Spring Boot. This project helps teams to manage tasks efficiently with features like task creation, assignment, and progress tracking.
+A task management system built with Thymeleaf, JavaScript, HTML, CSS, JQuery and Spring Boot. This project helps teams to manage tasks efficiently with features like task creation, assignment, and progress tracking.
 
 [GitHub Repository](https://github.com/santoshguggilla/User-Management-System.git)
 
